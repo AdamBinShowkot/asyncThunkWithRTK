@@ -1,5 +1,5 @@
 {
-  "name": "AsyncThunkWith RTK",
+  "name": "AsyncThunkWithRTK",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "node-fetch": "^2.6.7",
+    "redux-logger": "^3.0.6"
+  }
 }
